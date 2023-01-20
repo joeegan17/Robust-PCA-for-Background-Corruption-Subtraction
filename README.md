@@ -1,3 +1,5 @@
+Check out images and videos first to see what I'm doing here!
+
 # Robust-PCA-for-Background-Corruption-Subtraction
 Robust PCA is implemented from scratch and demonstrated to show effective ability to remove moving objects from videos and corruptions/outliers from image data
 
